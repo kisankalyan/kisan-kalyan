@@ -1,0 +1,13 @@
+{
+  "name": "kisan-kalyan",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kisan Kalyan - Farmer Procurement Management System (prototype)",
+  "scripts": {
+    "dev": "serve . -l 3000",
+    "start": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
